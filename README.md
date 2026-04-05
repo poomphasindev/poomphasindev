@@ -23,6 +23,7 @@
 </div>
 I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap between data-driven research and real-world intelligence. My focus is on **Computer Vision** and **Deep Learning**, with a passion for building systems that can see and understand.
 
+<br/>
 <p align="center">
   <a href="https://github.com/poomphasindev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/poomphasindev"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
