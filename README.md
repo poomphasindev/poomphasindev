@@ -12,8 +12,8 @@
 
 <br/>
 
-<h2 align="left">👾 `identity.init`</h2>
-
+<h2 align="left">👾 `### identity.init`</h2>
+### 🛠️ `tech_stack`
 I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap between data-driven research and real-world intelligence. My focus is on **Computer Vision** and **Deep Learning**, with a passion for building systems that can see and understand.
 
 <p align="left">
@@ -38,19 +38,19 @@ I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap be
 ║                  CAREER TIMELINE // POOM.EXE                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 
- [2025 — Present]  🤖 AI/ML Engineer @ CPF
+ [2025 — Present]  🤖 AI/ML Engineer @ CPF (In-comming)
                    ► Production-grade ML/CV pipelines.
 
- [2025]            📊 Data Scientist Intern @ Gosoft (7-Eleven Lab)
+ [2025]            📊 Data Scientist Intern @ Gosoft (7-Eleven)
                    ► Personalized CV-based products.
 
  [2024 — 2025]     💧 AI Developer @ CP ALL
                    ► Automated water quality via CV.
 
- [2024]            🔬 Research Intern @ NECTEC (InfoSec)
+ [2024]            🔬 Research Intern @ NECTEC (Sec)
                    ► AI-based object detection.
 
- [2023 — 2024]     🏆 Winner & Mentor @ Creative AI Camp (CAI)
+ [2023 — 2025]     🏆 Winner & Mentor @ Creative AI Camp (CAI)
                    ► Competed, Won, then Mentored.
 </code></pre>
 </details>
@@ -80,9 +80,9 @@ I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap be
 ### 📊 `metrics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poomphasindev&show_icons=true&theme=transparent&hide_border=true&title_color=20BEFF&text_color=8b949e&icon_color=20BEFF" alt="Poom's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poomphasindev&show_icons=true&hide_border=true&title_color=20BEFF&text_color=8b949e&icon_color=20BEFF&bg_color=00000000&theme=dark&v=1" alt="Poom's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poomphasindev&layout=compact&theme=transparent&hide_border=true&title_color=20BEFF&text_color=8b949e" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poomphasindev&layout=compact&hide_border=true&title_color=20BEFF&text_color=8b949e&bg_color=00000000&theme=dark&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
