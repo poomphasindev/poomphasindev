@@ -12,7 +12,17 @@
 
 <br/>
 
-<h2 align="left">👾 `identity.init`</h2>
+<div align="center">
+
+### 🛠️ `tech_stack`
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,ts,react,docker,git,github,gcp&theme=dark" />
+  </a>
+</p>
+
+</div>
 I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap between data-driven research and real-world intelligence. My focus is on **Computer Vision** and **Deep Learning**, with a passion for building systems that can see and understand.
 
 <p align="left">
