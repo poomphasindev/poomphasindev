@@ -12,8 +12,7 @@
 
 <br/>
 
-<h2 align="left">👾 `### identity.init`</h2>
-### 🛠️ `tech_stack`
+<h2 align="left">👾 `identity.init`</h2>
 I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap between data-driven research and real-world intelligence. My focus is on **Computer Vision** and **Deep Learning**, with a passion for building systems that can see and understand.
 
 <p align="left">
