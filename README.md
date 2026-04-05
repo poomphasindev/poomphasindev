@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 🛠️ `tech_stack`
+### 🐻 `About Me`
 
 <p align="center">
   </a>
