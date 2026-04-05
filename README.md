@@ -80,14 +80,16 @@ I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap be
 ### 📊 `metrics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poomphasindev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&rank_icon=github" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poomphasindev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e" height="150"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=poomphasindev&theme=transparent&hide_border=true&background=00000000&border=00000000&ring=20BEFF&fire=ff6e6e&currStreakLabel=ffffff" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=poomphasindev&show_icons=true&theme=transparent&hide_border=true&title_color=20BEFF&text_color=8b949e&icon_color=20BEFF" alt="Poom's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poomphasindev&layout=compact&theme=transparent&hide_border=true&title_color=20BEFF&text_color=8b949e" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=poomphasindev&theme=transparent&hide_border=true&ring=20BEFF&fire=ff6e6e&currStreakNum=ffffff&currStreakLabel=20BEFF&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 </div>
-
 <br/>
 
 ---
