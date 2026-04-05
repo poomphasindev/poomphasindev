@@ -16,20 +16,21 @@
 
 ### 🐻 `About Me`
 
-<p align="center">
-  </a>
+<p>
+  I'm a <b>2nd-year CEDT student at Chulalongkorn University</b>, bridging the gap between data-driven research and real-world intelligence.<br>
+  My focus is on <b>Computer Vision</b> and <b>Deep Learning</b>, with a passion for building systems that can see and understand.
 </p>
 
-</div>
-I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap between data-driven research and real-world intelligence. My focus is on **Computer Vision** and **Deep Learning**, with a passion for building systems that can see and understand.
-
 <br/>
-<p align="center">
+
+<p>
   <a href="https://github.com/poomphasindev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/poomphasindev"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/phasinpet"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" /></a>
   <a href="mailto:poomphasindev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+</div>
 
 <br/>
 
@@ -46,7 +47,7 @@ I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap be
 ║                  CAREER TIMELINE // POOM.EXE                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 
- [2025 — Present]  🤖 AI/ML Engineer @ CPF (In-comming)
+ [2025 — Present]  🤖 AI/ML Engineer @ CPF (Incoming)
                    ► Production-grade ML/CV pipelines.
 
  [2025]            📊 Data Scientist Intern @ Gosoft (7-Eleven)
@@ -71,7 +72,7 @@ I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap be
 
 ### 🛠️ `tech_stack`
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,ts,react,docker,git,github,gcp&theme=dark" />
   </a>
@@ -87,17 +88,17 @@ I'm a **2nd-year CEDT student at Chulalongkorn University**, bridging the gap be
 
 ### 📊 `metrics`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poomphasindev&show_icons=true&hide_border=true&title_color=20BEFF&text_color=8b949e&icon_color=20BEFF&bg_color=00000000&theme=dark&v=1" alt="Poom's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poomphasindev&layout=compact&hide_border=true&title_color=20BEFF&text_color=8b949e&bg_color=00000000&theme=dark&v=1" alt="Top Languages" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=poomphasindev&show_icons=true&theme=transparent&hide_border=true&title_color=20BEFF&text_color=8b949e&icon_color=20BEFF&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poomphasindev&layout=compact&theme=transparent&hide_border=true&title_color=20BEFF&text_color=8b949e&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=poomphasindev&theme=transparent&hide_border=true&ring=20BEFF&fire=ff6e6e&currStreakNum=ffffff&currStreakLabel=20BEFF&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 </div>
+
 <br/>
 
 ---
