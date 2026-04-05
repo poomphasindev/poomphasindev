@@ -17,8 +17,6 @@
 ### 🛠️ `tech_stack`
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,ts,react,docker,git,github,gcp&theme=dark" />
   </a>
 </p>
 
