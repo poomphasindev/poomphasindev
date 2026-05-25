@@ -47,8 +47,6 @@
 ║                  CAREER TIMELINE // POOM.EXE                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 
- [2025 — Present]  🤖 AI/ML Engineer @ CPF (Incoming)
-                   ► Production-grade ML/CV pipelines.
 
  [2025]            📊 Data Scientist Intern @ Gosoft (7-Eleven)
                    ► Personalized CV-based products.
