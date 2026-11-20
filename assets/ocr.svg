@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" width="760" height="150" role="img" aria-labelledby="title">
+  <title id="title">Thai and English OCR for text in images</title>
+  <defs>
+    <linearGradient id="panel" x2="100%" y2="65%">
+      <stop stop-color="#102a3e"/>
+      <stop offset="1" stop-color="#081421"/>
+    </linearGradient>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M0 16V0H16" fill="none" stroke="#193448"/>
+    </pattern>
+    <linearGradient id="scan">
+      <stop stop-color="#56d3ff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#56d3ff" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#56d3ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="758" height="148" rx="16" fill="url(#panel)" stroke="#26465b"/>
+  <path d="M32 49v52" stroke="#56d3ff" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="Helvetica,Arial,sans-serif">
+    <text x="52" y="73" fill="#f4fbff" font-size="35" font-weight="700">Thai &amp; English OCR</text>
+    <text x="53" y="101" fill="#bdd2e2" font-size="20">Reading text in images.</text>
+  </g>
+  <rect x="466" y="19" width="274" height="112" rx="10" fill="#08121c" stroke="#214056"/>
+  <rect x="471" y="24" width="264" height="102" rx="7" fill="url(#grid)"/>
+  <rect x="497" y="43" width="212" height="64" fill="#102d40" fill-opacity=".82"/>
+  <path d="M497 57V43h14m184 0h14v14m0 36v14h-14m-184 0h-14V93" fill="none" stroke="#62d7ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="603" y="89" text-anchor="middle" fill="#c1eeff" font-size="32" font-family="Thonburi,Leelawadee UI,Noto Sans Thai,sans-serif"><tspan lang="th">ไทย</tspan> · English</text>
+  <path d="M479 103H727" stroke="url(#scan)"/>
+</svg>
