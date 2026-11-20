@@ -17,7 +17,7 @@
 ### 🐻 `About Me`
 
 <p>
-  I'm a <b>2nd-year CEDT student at Chulalongkorn University</b>, bridging the gap between data-driven research and real-world intelligence.<br>
+  I'm a <b>3nd-year CEDT student at Chulalongkorn University</b>, bridging the gap between data-driven research and real-world intelligence.<br>
   My focus is on <b>Computer Vision</b> and <b>Deep Learning</b>, with a passion for building systems that can see and understand.
 </p>
 
