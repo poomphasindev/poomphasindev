@@ -39,9 +39,11 @@
 
 </div>
 
-- **OCR** · Thai and English text in images
-- **Model** · I fine-tuned the base `Qwen3-VL-8B` with 4-bit QLoRA.
-- **Macro exact match** · **63.41% → 89.03%** on an internal OCR holdout
+**Image OCR benchmark · Core-field exact match**
+
+- **Qwen3-VL-8B base (4-bit)** · 27.3%
+- **My Qwen3-VL-8B fine-tune (4-bit QLoRA)** · **87.0%**
+- **Gemini** · 84.4%
 
 ---
 
