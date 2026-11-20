@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1000&color=20BEFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=Reading+text+in+images;Thai+%2B+English+OCR)](https://github.com/poomphasindev)
+[![Computer vision and applied ML focus areas](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1000&color=20BEFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=Object%20detection%20%26%20instance%20segmentation;Image%20classification%20%26%20ensembles;Thai%20%2B%20English%20OCR%20%26%20document%20AI;VLM%20fine-tuning%20with%20QLoRA;Edge%20AI%20on%20NVIDIA%20Jetson;Data%20agents%20%26%20tool%20calling;Tabular%20ML%20%26%20demand%20forecasting)](https://github.com/poomphasindev)
 
 </div>
 
